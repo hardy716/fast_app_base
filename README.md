@@ -1,6 +1,6 @@
 # fast_app_base
 
-A new Flutter project.
+A foundational source for building apps quickly
 
 ## Getting Started
 
